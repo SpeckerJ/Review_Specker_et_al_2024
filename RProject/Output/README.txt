@@ -1,0 +1,1 @@
+This folder is empty by default. However, if the user decides to save the presented plots, they will be saved here.
