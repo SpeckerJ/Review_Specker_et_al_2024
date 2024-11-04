@@ -1,0 +1,1010 @@
+Cramer rules, with extensions,SMILES,cdk:Title,cramer2.categories.CramerTreeResult,?Chemical
+High (Class III),CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Alfuzosin
+High (Class III),CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Amitriptyline
+High (Class III),CC(C)[NH2+]CC(COC1=CC=C(C=C1)CC(=O)N)O,,"1N,2Y",Atenolol
+High (Class III),CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,,"1N,2N,3Y,4N",Atorvastatin
+High (Class III),CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Azithromycin
+High (Class III),CC(C)(C(=O)O)OC1=CC=C(C=C1)CCNC(=O)C2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Bezafibrate
+High (Class III),C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Biperiden
+Low (Class I),CC(C)NCC(COC1=CC=C(C=C1)COCCOC(C)C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Bisoprolol
+High (Class III),C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Carbamazepine
+11-Dihydroxy-10,,,trans-10
+High (Class III),C1C(C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Licarbazepine
+High (Class III),C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,,"1N,2N,3Y,4N",Cetirizine
+High (Class III),CCOC(=O)C(CCC1=CC=CC=C1)NC2CCCN3CCCC(N3C2=O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Cilazapril
+High (Class III),CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F,,"1N,2Y",Citalopram
+High (Class III),C1=CC(=C(C=C1N)N)OC(C(F)F)(F)F,,"1N,2N,3Y,4N",Desmethylcitalopram
+High (Class III),CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCCC3CCCN3C,,"1N,2N,3Y,4N",Clemastine
+High (Class III),CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,,"1N,2N,3Y,4N",Clindamycin
+High (Class III),CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl,,"1N,2N,3Y,4N",Clomipramine
+High (Class III),CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Dicycloverine
+High (Class III),CC(=O)OC1C(SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC,,"1N,2N,3N,43Y",Diltiazem
+High (Class III),CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Diphenhydramine
+High (Class III),CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Disopyramide
+High (Class III),COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Donepezil
+High (Class III),CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,10N,11Y,33N",Erythromycin
+High (Class III),CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Fenofibrate
+High (Class III),CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Fexofenadine
+High (Class III),COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,,"1N,2N,3Y,4N",Glibenclamide
+High (Class III),CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C,,"1N,2N,3Y,4N",Glimepiride
+High (Class III),C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,,"1N,2N,3Y,4N",Haloperidol
+High (Class III),CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Irbesartan
+High (Class III),CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4,,"1N,2N,3Y,4N",Loperamide
+High (Class III),CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Maprotiline
+High (Class III),CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl,,"1N,2N,3Y,4N",Meclozine
+High (Class III),CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,,"1N,2N,3Y,4N",Memantine
+Low (Class I),CC(CC1=CC=CC=C1)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Metamphetamine
+Low (Class I),CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Metoprolol
+Low (Class I),CC(C)NCC(COC1=CC=C(C=C1)CC(=O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Metoprolol acid
+High (Class III),CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Mianserin
+High (Class III),C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl,,"1N,2N,3Y,4N",Miconazole
+High (Class III),CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Mirtazapine
+High (Class III),CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Orphenadrine
+High (Class III),CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Oseltamivir acid
+High (Class III),C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,,"1N,2N,3Y,4N",Oxazepam
+High (Class III),C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Oxcarbazepine
+High (Class III),CN1CCC(=C2C3=C(CCC4=CC=CC=C42)SC=C3)CC1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pizotifen
+High (Class III),CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Propranolol
+High (Class III),CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Ropinirole
+High (Class III),CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,10N,11Y,33N",Roxithromycin
+High (Class III),CNC1CCC(C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl,,"1N,2N,3Y,4N",Sertraline
+High (Class III),CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,,"1N,2N,3Y,4N",Sotalol
+High (Class III),C1=CC(=CC=C1N)S(=O)(=O)NC2=CN=CC(=N2)Cl,,"1N,2N,3Y,4N",Sulfaclozine
+High (Class III),CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,,"1N,2N,3Y,4N",Sulfamethazine
+High (Class III),CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfamethizole
+High (Class III),CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfamethoxazole
+High (Class III),CC1=CC(=NO1)N(C(=O)C)S(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Acetylsulfisomezole
+High (Class III),CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Telmisartan
+High (Class III),CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Terbinafine
+Low (Class I),CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Terbutaline
+Low (Class I),CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Tramadol
+High (Class III),C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Triamterene
+High (Class III),COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Trimethoprim
+High (Class III),CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Valsartan
+Low (Class I),CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Venlafaxine
+Low (Class I),CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Desvenlafaxine
+High (Class III),CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,,"1N,2Y",Verapamil
+High (Class III),C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=C(C=C2Cl)O)Cl,,"1N,2N,3Y,4N",4?-Hydroxydiclofenac
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",4-aminoantipyrine
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC(=O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",4-acetoaminoantipyrine
+5,,,1-Acetyl-1
+High (Class III),CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC,,"1N,2N,3Y,4N",Amisulpride
+High (Class III),C1=CC2=NNN=C2C=C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",1H-Benzotriazole
+High (Class III),CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,10N,11Y,33N",Clarithromycin
+Low (Class I),CCN(CC)C(=O)C1=CC=CC(=C1)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",DEET
+High (Class III),C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,,"1N,2N,3Y,4N",Diclofenac
+,,,#N/A
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",(Dimethylamino)antipyrine
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC=O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",4-(Formylamino)antipyrine
+High (Class III),C1CCC(CC1)(CC(=O)O)CN,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Gabapentin
+High (Class III),C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,,"1N,2N,3Y,4N",Hydrochlorothiazide
+Low (Class I),CC(C)C1=CC=C(C=C1)NC(=O)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Isoproturon
+High (Class III),CNC1(CCCCC1=O)C2=CC=CC=C2Cl,,"1N,2N,3Y,4N",Ketamine
+High (Class III),CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Ketoprofen
+High (Class III),CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,,"1N,2N,3Y,4N",Mecoprop
+High (Class III),CCCC(C)(COC(=O)N)COC(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Meprobamate
+Low (Class I),CCC(C1=CC=CC=C1)(C(=O)N)C(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",2-Ethyl-2-phenylmalonamide
+High (Class III),C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",PFOA
+High (Class III),C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",PFOS
+High (Class III),C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl,,"1N,2N,3Y,4N",Phenazone
+High (Class III),CCC1(C(=O)NCNC1=O)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Primidone
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Propyphenazone
+High (Class III),CCC1(C(=O)C=CNC1=O)CC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pyrithyldione
+High (Class III),CCNC1=NC(=NC(=N1)Cl)NCC,,"1N,2N,3Y,4N",Simazine
+High (Class III),O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O,,"1N,2N,3Y,4N",SPS
+High (Class III),C(C1C(C(C(C(O1)OC2(C(C(C(O2)CCl)O)O)CCl)O)O)Cl)O,,"1N,2N,3Y,4N",Sucralose
+High (Class III),CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfamerazine
+High (Class III),CCCCOP(=O)(OCCCC)OCCCC,,"1N,2N,3Y,4Y,40Y",Tributyl phosphate
+High (Class III),CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl,,"1N,2N,3Y,4N",Tris(2-chloroisopropyl) phosphate
+High (Class III),C(CCl)OP(=O)(OCCCl)OCCCl,,"1N,2N,3Y,4N",Tris(2-chloroethyl) phosphate
+High (Class III),CCNC1=NC(=NC(=N1)SC)NC(C)(C)C,,"1N,2N,3N,43Y",Terbutryn
+High (Class III),CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,,"1N,2N,3Y,4N",Tolbutamide
+High (Class III),CC1=CC=CC2=NNN=C12,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",Tolyltriazole
+High (Class III),C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3,,"1N,2N,3Y,4Y,40Y",Triphenyl phosphate
+High (Class III),CC1=CC=CC=C1S(=O)(=O)N,,"1N,2N,3Y,4N",toluenesulfonamide
+Intermediate (Class II),CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",17?-Estradiol
+Intermediate (Class II),CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",17?-Estradiol
+Intermediate (Class II),CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Estriol
+Low (Class I),CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",17?-Ethinylestradiol
+Low (Class I),CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Mestranol
+High (Class III),CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Testosterone
+High (Class III),CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",5?-Dihydrotestosterone
+High (Class III),CC12C=CC3=C4CCC(=O)C=C4CCC3C1CCC2O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",17?-Trenbolone
+High (Class III),CCC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Levonorgestrel
+Low (Class I),CCCCCCCCCC1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-Nonylphenol
+High (Class III),CN1C=NC2=C1C(=O)N(C(=O)N2C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Caffeine
+High (Class III),CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,,"1N,2N,3Y,4N",Diazepam
+Low (Class I),CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Gemfibrozil
+High (Class III),CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Methotrexate
+Low (Class I),CC(=O)NC1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Paracetamol
+Low (Class I),C1=CC=C(C(=C1)C(=O)[O-])O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Salicylic acid
+High (Class III),CCNC1=NC(=NC(=N1)Cl)NC(C)C,,"1N,2N,3Y,4N",Atrazine
+High (Class III),CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlorpyrifos
+High (Class III),C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,,"1N,2N,3Y,4N",Pentachlorophenol
+High (Class III),CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],,"1N,2Y",Trifluralin
+High (Class III),C(Cl)(Cl)Br,,"1N,2N,3Y,4N",Bromodichloromethane
+High (Class III),C(Br)(Br)Br,,"1N,2N,3Y,4N",Bromoform
+High (Class III),C(Cl)(Cl)Cl,,"1N,2N,3Y,4N",Chloroform
+High (Class III),CN(C)N=O,,"1N,2Y",N-Nitrosodimethylamine
+High (Class III),C1=CC=C(C=C1)C2(C(=O)NC(=N2)[O-])C3=CC=CC=C3.[Na+],,"1N,2N,3Y,4N",Dilantin
+High (Class III),CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,,"1N,2N,3Y,4N",Fluoxetine
+High (Class III),CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,,"1N,2N,3Y,4N",Clozapine
+High (Class III),CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=C(C=C4)[O-].[Na+].[Na+],,"1N,2N,3Y,4N",p-Hydroxyatorvastatin
+High (Class III),CCC(C)(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,10N,11N,12N,22N,33N",Simvastatin
+High (Class III),CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,,"1N,2N,3Y,4N",Omeprazole
+High (Class III),CN(C)C(=N)N=C(N)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Metformin
+High (Class III),CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Naproxen
+Low (Class I),CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Ibuprofen
+High (Class III),C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl,,"1N,2N,3Y,4N",Triclocarban
+Low (Class I),CCCOC(=O)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Propylparaben
+High (Class III),CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC,,"1N,2N,3Y,4N",Linuron
+High (Class III),C1=CC=C(C=C1)C2=CC=CC=C2O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",2-Phenylphenol
+4-Dichlorophenoxy)acetic acid,,,(2
+High (Class III),C1=CC=C2C(=C1)C=CC3=C(N2C(=O)N)C=C(C=C3)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",3-Hydroxycarbamazepine
+6-Dinitro-o-cresol,,,4
+High (Class III),CC1=CC(=O)NS(=O)(=O)O1,,"1N,2N,3Y,4Y,40N,41N,7Y,8N,10N,11Y,33N",Acesulfame
+High (Class III),CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O,,"1N,2N,3Y,4N",Bentazon
+High (Class III),C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F,,"1N,2Y",Fipronil
+High (Class III),C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,,"1N,2N,3Y,4N",Furosemide
+High (Class III),CC1=C(C=CC(=C1)Cl)OCC(=O)O,,"1N,2N,3Y,4N",MCPA
+High (Class III),CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,,"1N,2N,3Y,4N",MCPP-p
+High (Class III),C1=CC=C2C(=C1)C(=O)NS2(=O)=O,,"1N,2N,3Y,4N",Saccharin
+High (Class III),C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,,"1N,2N,3Y,4N",Triclosan
+Intermediate (Class II),CC(C)C(C1=CC=C(C=C1)C(C)C(=O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",1-Hydroxyibuprofen
+6-Dichlorobenzamide,,,2
+High (Class III),C1=CC=C2C(=C1)C(=O)C=CN2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",4-Hydroxyquinoline
+High (Class III),CCNC1=NC(=NC(=N1)SC)NC(C)C,,"1N,2N,3N,43Y",Ametryn
+High (Class III),CC1=CC(=O)N(N1C)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Antipyrine
+High (Class III),CC(C)(C)C(=O)C(N1C=CN=C1)OC2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Climbazole
+High (Class III),CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N,,"1N,2Y",Cyanazine
+High (Class III),CC(C)NC1=NC(=NC(=N1)NC)SC,,"1N,2N,3N,43Y",Desmetryne
+High (Class III),CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",Diuron
+High (Class III),C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F,,"1N,2N,3Y,4N",Fluroxypyr
+High (Class III),CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Lincomycin
+Low (Class I),C1=CC=C(C=C1)NC(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",N-Phenylurea
+High (Class III),CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,,"1N,2N,3Y,4N",Nicosulfuron
+High (Class III),C(=O)(C(C(C(F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorobutanoic acid
+High (Class III),CC(C)NC1=NC(=NC(=N1)OC)NC(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Prometon
+High (Class III),CC(C)NC1=NC(=NC(=N1)SC)NC(C)C,,"1N,2N,3N,43Y",Prometryne
+High (Class III),CCNC1=NC(=NC(=N1)SC)NCC,,"1N,2N,3N,43Y",Simetryne
+High (Class III),CCNC1=NC(=NC(=N1)OC)NC(C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Terbumeton
+High (Class III),CCOP(=S)(OCC)OC1=NN(C=N1)C2=CC=CC=C2,,"1N,2N,3Y,4Y,40Y",Triazophos
+High (Class III),CCOP(=O)(OCC)OCC,,"1N,2N,3Y,4Y,40Y",Triethyl phosphate
+High (Class III),CCC1=CC(=NC=C1)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Dimefuron
+Low (Class I),CN(C)C(=O)NC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Fenuron
+Low (Class I),CC(C)OC1=CC=CC=C1OC(=O)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Propoxur
+High (Class III),CCCN(CCC)C(=O)SCC1=CC=CC=C1,,"1N,2N,3N,43Y",Prosulfocarb
+3,,,2
+High (Class III),CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C,,"1N,2N,3Y,4N",Dimethenamid P
+High (Class III),C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(C=C2)Cl,,"1N,2Y",Imidacloprid
+High (Class III),CNC(=O)N(C)C1=NC2=CC=CC=C2S1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Methabenzthiazuron
+Low (Class I),CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19Y,20Y,21N,44N,18N)",Ethofumesate
+High (Class III),CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Chloroxuron
+High (Class III),CCNC1=NC(=NC(=N1)SC)NC(C)C(C)C,,"1N,2N,3N,43Y",Dimethametryn
+High (Class III),CC(C)NC1=NC(=NC(=N1)Cl)NC(C)C,,"1N,2N,3Y,4N",Propazine
+Low (Class I),C(COP(=O)(O)O)C=O,,"1N,2N,3Y,4Y,40N,41N(7N,16N,17N,19Y,20Y,21N,44N,18N)",Pyridafol
+,,,#N/A
+High (Class III),CNC1=CC=CC=N1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",2-(Methylamino)pyridine
+High (Class III),CCCCN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",Neburon
+High (Class III),CCC(=O)NC1=CC(=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",Propanil
+High (Class III),CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1,,"1N,2N,3Y,4Y,40Y",Azinphos-ethyl
+Low (Class I),COCCOCCOC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Diglyme
+High (Class III),CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F,,"1N,2N,3Y,4N",Fluometuron
+High (Class III),CC1=C(C=CC(=C1)Cl)OCCCC(=O)O,,"1N,2N,3Y,4N",MCPB
+High (Class III),C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F,,"1N,2N,3Y,4N",Teflubenzuron
+High (Class III),CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Methoxyfenozide
+High (Class III),CON=C(C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)C4=NOCCO4,,"1N,2N,3Y,4N",Fluoxastrobin
+High (Class III),CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C,,"1N,2N,3Y,4N",Metolachlor
+4,,,(2
+High (Class III),CC(C)(C(=O)O)OC1=CC=C(C=C1)Cl,,"1N,2N,3Y,4N",Clofibric acid
+High (Class III),CC1(CON(C1=O)CC2=CC=CC=C2Cl)C,,"1N,2N,3Y,4N",Clomazone
+High (Class III),CC(C)(C)C1=NN=C(N(C1=O)N)SC,,"1N,2N,3N,43Y",Metribuzin
+High (Class III),CC1=C(C(=O)N(C(=O)N1)C(C)(C)C)Cl,,"1N,2N,3Y,4N",Terbacil
+High (Class III),CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-],,"1N,2Y",Mesotrione
+High (Class III),C1=C(C=C(C(=C1I)O)I)C#N,,"1N,2Y",Ioxynil
+High (Class III),C1=CC=C2C(=C1)C=CC(=O)N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",2-Hydroxyquinoline
+High (Class III),C1=CC2=C(C=CC(=C2)O)N=C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",6-hydroxyquinoline
+High (Class III),C(C(C(F)(F)S(=O)(=O)O)(F)F)(C(F)(F)F)(F)F,,"1N,2N,3Y,4N",Perfluorobutanesulfonic acid
+High (Class III),C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",Perfluorohexanesulfonic acid
+High (Class III),C(=O)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluoropentanoic acid
+High (Class III),C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorohexanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluoroheptanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorononanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorodecanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluoroundecanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorododecanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorotridecanoic acid
+High (Class III),C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,,"1N,2N,3Y,4N",Perfluorotetradecanoic acid
+High (Class III),CCN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",2-(N-Ethylperfluorooctanesulfonamido)acetic acid
+High (Class III),CN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",2-(N-Methylperfluorooctanesulfonamido)acetic acid
+High (Class III),C(Cl)(Br)Br,,"1N,2N,3Y,4N",Dibromochloromethane
+High (Class III),C(C(=O)O)(Cl)Cl,,"1N,2N,3Y,4N",Dichloroacetic acid
+High (Class III),C(=O)(C(Cl)(Cl)Cl)O,,"1N,2N,3Y,4N",Trichloroacetic acid
+High (Class III),C(C(=O)O)Cl,,"1N,2N,3Y,4N",Monochloroacetic acid
+High (Class III),C(C(=O)O)Br,,"1N,2N,3Y,4N",Bromoacetic acid
+High (Class III),C(C(=O)O)(Br)Br,,"1N,2N,3Y,4N",Dibromoacetic acid
+High (Class III),C(C(=O)O)(Cl)Br,,"1N,2N,3Y,4N",Bromochloroacetic acid
+High (Class III),C(=O)(C(Cl)(Cl)Br)O,,"1N,2N,3Y,4N",Bromodichloroacetic acid
+High (Class III),CC1=C(N=CC=C1)NC(=O)NC2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Dibromochloroacetic acid
+High (Class III),C(=O)(C(Br)(Br)Br)O,,"1N,2N,3Y,4N",Tribromoacetic acid
+High (Class III),C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42Y",Benzene
+High (Class III),C1=CC=C(C=C1)Cl,,"1N,2N,3Y,4N",Chlorobenzene
+High (Class III),C(Cl)(Cl)(Cl)Cl,,"1N,2N,3Y,4N",Carbon Tetrachloride
+2-Dichlorobenzene,,,1
+High (Class III),C1=CC(=CC=C1Cl)Cl,,"1N,2N,3Y,4N",p-Dichlorobenzene
+2-Dichloroethane,,,1
+1-Dichloroethene,,,1
+2-Dichloroethene,,,cis-1
+2-Dichloroethylene,,,trans-1
+High (Class III),C(Cl)Cl,,"1N,2N,3Y,4N",Dichloromethane
+2-Dichloropropane,,,1
+Low (Class I),CCC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Ethylbenzene
+Low (Class I),C=CC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Styrene
+High (Class III),C(=C(Cl)Cl)(Cl)Cl,,"1N,2N,3Y,4N",Tetrachloroethylene
+Low (Class I),CC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Toluene
+2,,,1
+1,,,1
+1,,,1
+High (Class III),C(=C(Cl)Cl)Cl,,"1N,2N,3Y,4N",Trichloroethylene
+High (Class III),C=CCl,,"1N,2N,3Y,4N",Vinyl Chloride
+Low (Class I),CC1=CC(=CC=C1)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",m-xylene
+Low (Class I),CC1=CC=C(C=C1)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",p-xylene
+Low (Class I),CC1=CC=CC=C1C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",o-Xylene
+High (Class III),C(C(CBr)Br)Cl,,"1N,2N,3Y,4N",DBCP
+High (Class III),C(CBr)Br,,"1N,2N,3Y,4N",Ethylene Dibromide
+High (Class III),[O-]Cl(=O)=O,,"1N,2N,3Y,4N",Chlorate
+High (Class III),C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlordecone
+High (Class III),C1COCCN1N=O,,"1N,2Y",N-nitrosomorpholine
+Low (Class I),C1=CC=C(C=C1)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Aniline
+High (Class III),C1=CC=C(C=C1)[N+](=O)[O-],,"1N,2Y",Nitrobenzene
+High (Class III),CCN(CC)N=O,,"1N,2Y",n-Nitrosodiethylamine
+High (Class III),CCCN(CCC)N=O,,"1N,2Y",n-Nitrosodi-n-propylamine
+High (Class III),C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O,,"1N,2Y",n-Nitrosodiphenylamine
+High (Class III),C1CCN(C1)N=O,,"1N,2Y",n-Nitrosopyrrolidine
+Low (Class I),CCCC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Propylbenzene
+1,,,1
+Intermediate (Class II),C=CC=O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18Y",Acrolein
+Low (Class I),CCCCCC,,"1N,2N,3N,43N,5Y",Hexane
+Low (Class I),CO,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Methanol
+High (Class III),CC(C)(C)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Methyl tert-Butyl Ether
+Low (Class I),CCC(C)C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",sec-Butylbenzene
+High (Class III),C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlordane
+High (Class III),C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Endrin
+High (Class III),C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Heptachlor
+High (Class III),C12C(C(C3C1O3)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Heptachlor Epoxide
+,,,#N/A
+High (Class III),COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl,,"1N,2N,3Y,4N",Methoxychlor
+High (Class III),C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl,,"1N,2N,3Y,4N",Toxaphene
+High (Class III),C1=CC(=CC(=C1)Cl)C2=CC(=CC(=C2)Cl)Cl,,"1N,2N,3Y,4N",Aroclor 1016
+High (Class III),C1=CC(=C(C(=C1)Cl)Cl)C2=C(C=C(C=C2)Cl)Cl,,"1N,2N,3Y,4N",Aroclor 1242
+High (Class III),C1=C(C=C(C=C1Cl)Cl)C2=CC(=CC(=C2)Cl)Cl,,"1N,2N,3Y,4N",Aroclor 1248
+High (Class III),C1=CC(=C(C(=C1)Cl)Cl)C2=C(C(=C(C=C2)Cl)Cl)Cl,,"1N,2N,3Y,4N",Aroclor 1254
+High (Class III),C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Aroclor 1260
+High (Class III),CC(C(=O)O)(Cl)Cl,,"1N,2N,3Y,4N",Dalapon
+High (Class III),C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,,"1N,2N,3Y,4N",Picloram
+High (Class III),CC(C(=O)[O-])OC1=CC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Silvex
+High (Class III),CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,,"1N,2Y",Dinoseb
+High (Class III),CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl,,"1N,2N,3Y,4N",Alachlor
+High (Class III),C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Benzo[a]pyrene
+Low (Class I),CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Di(2-ethylhexyl) adipate
+Low (Class I),CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Di(2-ethylhexyl) phthalate
+High (Class III),C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Hexachlorocyclopentadiene
+High (Class III),C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Hexachlorobenzene
+High (Class III),C=CC(=O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Acrylamide
+High (Class III),CC1(CC2=C(O1)C(=CC=C2)OC(=O)NC)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Carbofuran
+High (Class III),CNC(=O)ON=C(C(=O)N(C)C)SC,,"1N,2N,3N,43Y",Oxamyl
+3,,,2
+High (Class III),C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31,,"1N,2Y",Diquat
+High (Class III),C1CC2C(C(C1O2)C(=O)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Endothall
+High (Class III),C(C(=O)O)NCP(=O)(O)O,,"1N,2Y",Glyphosate
+High (Class III),C1C(O1)CCl,,"1N,2N,3Y,4N",Epichlorohydrin
+4-dioxane,,,1
+High (Class III),[O-]Cl(=O)(=O)=O,,"1N,2N,3Y,4N",Perchlorate
+High (Class III),C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Aldrin
+High (Class III),C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Dieldrin
+p?-DDT,,,o
+High (Class III),C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,,"1N,2N,3Y,4N",DDT
+High (Class III),C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Mirex
+High (Class III),C(CP(CCC(=O)O)CCC(=O)O)C(=O)O,,"1N,2N,3Y,4Y,40Y",tris(2-carboxyethyl)phosphine
+High (Class III),CN1C(CCC1=O)C2=CN=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Cotinine
+High (Class III),C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Phenytoin
+Low (Class I),CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Estrone
+High (Class III),C(Cl)Br,,"1N,2N,3Y,4N",Bromochloromethane
+High (Class III),CBr,,"1N,2N,3Y,4N",Bromomethane
+1-dichloroethane,,,1
+2,,,1
+High (Class III),CCl,,"1N,2N,3Y,4N",Chloromethane
+Low (Class I),CC12CCC3C(C1CC(C2=O)O)CCC4=C3C=CC(=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",16?-Hydroxyestrone
+High (Class III),CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4=O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Androstenedione
+Low (Class I),CC12CCC3C(=CCC4=C3C=CC(=C4)O)C1CCC2=O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Equilin
+High (Class III),CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Bisphenol A
+High (Class III),CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,,"1N,2N,3Y,4N",cis-Permethrin
+High (Class III),CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-],,"1N,2Y",Fenitrothion
+High (Class III),CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,,"1N,2N,3Y,4N",Permethrin
+High (Class III),CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,,"1N,2N,3Y,4N",trans-Permethrin
+High (Class III),CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)C3C(C3(C)C)C=C(C(F)(F)F)Cl,,"1N,2N,3Y,4N",Bifenthrin
+High (Class III),CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,,"1N,2Y",Musk Ketone
+High (Class III),CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Galaxolide
+Low (Class I),CC=O,,1Y,Acetaldehyde
+Low (Class I),C=O,,1Y,Formaldehyde
+High (Class III),C1=CC=C2C(=C1)C=CC=N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",Quinoline
+High (Class III),CC(=O)N(CC(CO)O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I,,"1N,2N,3Y,4N",Iohexol
+High (Class III),C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",Ketorolac
+High (Class III),C1=CC=C(C=C1)C2=CC=C(C=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",phenylphenol
+High (Class III),CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Carazolol
+High (Class III),C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Benzophenone
+High (Class III),COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Oxybenzone
+High (Class III),CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C,,"1N,2N,3Y,4Y,40Y",Diazinon
+High (Class III),CCNC(C)CC1=CC2=C(C=C1)OCO2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Methylenedioxyethylamphetamine
+2,,,cis-1
+11-epoxide,,,Carbamazepine 10
+High (Class III),C1=CC=C2C(=C1)NC(=N2)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",2-Aminobenzimidazole
+5-dimethyl-3,,,2-Ethylidene-1
+High (Class III),C1=CC=C2C(=C1)NC(=O)S2,,"1N,2N,3N,43Y",Hydroxybenzothiazole
+High (Class III),C1=CC=C(C=C1)CC[NH3+],,"1N,2Y",2-Phenethylamine
+4-Methylenedioxyamphetamine,,,3
+5,,,3
+Low (Class I),CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-hydroxyestrone
+High (Class III),CC1=CC2=NNN=C2C=C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",5-Methylbenzotriazole
+3,,,2
+High (Class III),CC(CC1=CC2=C(C=C1)NC=C2)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",5-Aminopropylindole
+High (Class III),CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",6-monoacetylmorphine 
+High (Class III),CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,,"1N,2N,3Y,4N",Paliperidone
+,,,#N/A
+Low (Class I),CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Albuterol
+High (Class III),CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4,,"1N,2N,3Y,4N",Alprazolam
+High (Class III),C1C2CC3CC1CC(C2)(C3)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Amantadine
+High (Class III),CC[N+]1(CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC)[O-],,"1N,2Y",4-Amino-N-[(1-ethyl-1-oxido-2-pyrrolidinyl)methyl]-5-(ethylsulfonyl)-2-methoxybenzamide
+High (Class III),CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Amoxicillin
+Low (Class I),CCNC(C)CC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",(±)-Ethylamphetamine
+High (Class III),CCN(CC)CC1=C(C=CC(=C1)NC2=NC(=NC(=C2)C)N=C(N)NC3=CC(=CC(=C3)Cl)Cl)O,,"1N,2N,3Y,4N",Propylamphetamine
+High (Class III),CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Ampicillin
+High (Class III),C1=CC=C(C=C1)C(C[NH3+])O,,"1N,2Y",(±)-Phenylethanolamine
+High (Class III),CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Atazanavir
+High (Class III),COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)OC,,"1N,2Y",Azoxystrobin
+Low (Class I),C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Benserazide
+High (Class III),C1=CC=C(C=C1)S(=O)(=O)N,,"1N,2N,3Y,4N",Benzenesulfonamide
+High (Class III),C1=CC=C2C(=C1)N=NN2[O-],,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",1-Hydroxybenzotriazole
+High (Class III),CN1C2=CC=CC=C2N=N1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",1-Methylbenzotriazole
+High (Class III),CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Benzoylecgonine
+High (Class III),C1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=N3,,"1N,2N,3Y,4N",Bromazepam
+High (Class III),CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Buprenorphine
+High (Class III),CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Candesartan
+Low (Class I),CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Cannabidiol
+Intermediate (Class II),CC(C(C1=CC=CC=C1)O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Cathine
+High (Class III),C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)Cl,,"1N,2N,3Y,4N",Cefaclor
+High (Class III),CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O,,"1N,2N,3N,43Y",Cefazolin
+Low (Class I),CCN(CC)C(=O)NC1=CC(=C(C=C1)OCC(CNC(C)(C)C)O)C(=O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Celiprolol
+,,,#N/A
+High (Class III),C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,,"1N,2N,3Y,4N",Chlorothiazide
+High (Class III),CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,,"1N,2N,3Y,4N",Chlorpromazine
+High (Class III),C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,,"1N,2N,3Y,4N",Chlorthalidone
+High (Class III),C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,,"1N,2N,3Y,4N",Ciprofloxacin
+3-dihydro-5-isobenzofurancarboxamide,,,1-[3-(Dimethylamino)propyl]-1-(4-fluorophenyl)-1
+High (Class III),CN1C(=O)CC(=O)N(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,,"1N,2N,3Y,4N",Clobazam
+High (Class III),C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl,,"1N,2Y",Clonazepam
+High (Class III),COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3,,"1N,2N,3Y,4N",Clopidogrel
+High (Class III),CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,,"1N,2N,3Y,4N",Cloxacillin
+High (Class III),CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Cocaine
+High (Class III),CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Codeine
+High (Class III),CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Cortisol
+High (Class III),CC12CCC(=O)C=C1CCC3C2C(=O)CC4(C3CCC4(C(=O)CO)O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Cortisone
+Low (Class I),CCN(C1=CC=CC=C1C)C(=O)C=CC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Crotamiton
+High (Class III),C1CNP(=O)(OC1)N(CCCl)CCCl,,"1N,2N,3Y,4N",Cyclophosphamide
+O-Didesmethylvenlafaxine,,,N
+High (Class III),CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N,,"1N,2N,3Y,4N",Darunavir
+High (Class III),CCNC1=NC(=NC(=N1)N)Cl,,"1N,2N,3Y,4N",Deisopropylatrazine
+High (Class III),CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Dextromethorphan
+High (Class III),CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,,"1N,2N,3Y,4N",Dicloxacillin
+High (Class III),CN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F,,"1N,2N,3Y,4N",Difloxacin
+High (Class III),CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(CC4)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Dihydrocodeine
+High (Class III),CCOC(=O)N1C(=NC=N1)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Deacetyldiltiazem
+High (Class III),CNC(=O)CSP(=S)(OC)OC,,"1N,2N,3Y,4Y,40Y",Dimethoate
+High (Class III),CNC(=O)OC1=CC=CC=C1C2OCCO2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Dioxacarb
+High (Class III),CN(C)C(=O)C(C1=CC=CC=C1)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Diphenamide
+High (Class III),CCNC1CC(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C,,"1N,2N,3Y,4N",Dorzolamide
+High (Class III),CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Doxepin
+,,,#N/A
+High (Class III),CCN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)F,,"1N,2N,3Y,4N",Enrofloxacin
+Intermediate (Class II),CC(C(C1=CC=CC=C1)O)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Ephedrine
+High (Class III),CCCCC1=NC=C(N1CC2=CC=C(C=C2)C(=O)O)C=C(CC3=CC=CS3)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Eprosartan
+High (Class III),C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N,,"1N,2N,3Y,4N",Famotidine
+High (Class III),CC(CC1=CC=C(C=C1)O)NCC(C2=CC(=CC(=C2)O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Fenoterol
+High (Class III),C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,,"1N,2N,3Y,4N",Flecainide
+High (Class III),CS(=O)(=O)C1=CC=C(C=C1)C(C(CF)NC(=O)C(Cl)Cl)O,,"1N,2N,3Y,4N",Florfenicol
+High (Class III),C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,,"1N,2N,3Y,4N",Fluconazole
+High (Class III),CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O,,"1N,2N,3Y,4N",Flumequine
+High (Class III),CC1CC(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC,,"1N,2N,3Y,4N",Griseofulvin
+High (Class III),CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)C)CCN3C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Heroin
+,,,#N/A
+High (Class III),CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hydrocodone
+High (Class III),CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hydromorphone
+High (Class III),CN1C(CC(C1=O)O)C2=CN=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hydroxycotinine
+High (Class III),CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Imipramine
+High (Class III),CC1CC2=CC=CC=C2N1NC(=O)C3=CC(=C(C=C3)Cl)S(=O)(=O)N,,"1N,2N,3Y,4N",Indapamide
+High (Class III),CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,,"1N,2N,3Y,4N",Indomethacin
+High (Class III),CN(CC(CO)O)C(=O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)NC(=O)COC)I,,"1N,2N,3Y,4N",Iopromide
+Low (Class I),CC(=O)NC(COC)C(=O)NCC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Lacosamide
+High (Class III),C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N,,"1N,2N,3Y,4N",Lamotrigine
+Low (Class I),CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Lidocaine
+High (Class III),CC1=C(C(=CC=C1)C)OCC(=O)NC(CC2=CC=CC=C2)C(CC(CC3=CC=CC=C3)NC(=O)C(C(C)C)N4CCCNC4=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Lopinavir
+High (Class III),C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,,"1N,2N,3Y,4N",Lorazepam
+High (Class III),CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3Cl,,"1N,2N,3Y,4N",Lormetazepam
+High (Class III),CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",(+)-Lysergic acid diethylamide
+High (Class III),CN1CCN(CC1)C2=C(C=C3C4=C2OCN(N4C=C(C3=O)C(=O)O)C)F,,"1N,2N,3Y,4N",Marbofloxacin
+High (Class III),COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Mebendazole
+High (Class III),CC1=C(C(=C(C=C1)Cl)NC2=CC=CC=C2C(=O)O)Cl,,"1N,2N,3Y,4N",Meclofenamic Acid
+High (Class III),CN1CCN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,,"1N,2N,3Y,4N",Medazepam
+High (Class III),CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Mefenamic Acid
+High (Class III),CC1(C2=CC=CC=C2C(=CCCN(C)C)C3=CC=CC=C31)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Melitracen
+High (Class III),CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O,,"1N,2N,3Y,4N",Meloxicam
+High (Class III),CC1=C(C(=CC=C1)C)NC(=O)C2CCCCN2C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Mepivacaine
+High (Class III),CCC1(CCCCN(C1)C)C2=CC(=CC=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Meptazinol
+Low (Class I),COC1=CC(=CC(=C1OC)OC)CCN,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Mescaline
+High (Class III),CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Methadone
+Low (Class I),CC(C(=O)C1=CC=CC=C1)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Methcathinone
+Intermediate (Class II),CC(C(C1=CC=CC=C1)O)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Methylephedrine
+High (Class III),CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl,,"1N,2N,3Y,4N",Metoclopramide
+Low (Class I),CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N)",Metolachlor ESA
+High (Class III),CC1=NC=C(N1CCO)[N+](=O)[O-],,"1N,2Y",Metronidazole
+High (Class III),CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F,,"1N,2N,3Y,4N",Midazolam
+High (Class III),C1C2=CN=C(N2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4F)CO,,"1N,2N,3Y,4N",1?-Hydroxymidazolam
+,,,#N/A
+,,,#N/A
+Low (Class I),CC1=CC(=C(C=C1OC(=O)C)C(C)C)OCCN(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Moxisylyte
+Low (Class I),CNCC1CCCCC1(C2=CC(=CC=C2)OC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",N-Desmethyltramadol
+Low (Class I),C1=CC(=CN=C1)C(=O)N,,1Y,Nicotinamide
+High (Class III),C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)[O-])C(F)(F)F,,"1N,2N,3Y,4N",Niflumic acid
+High (Class III),CC1=C(C(C(=C(N1)C#N)C(=O)OC)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC(C)C,,"1N,2Y",Nilvadipine
+High (Class III),C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3,,"1N,2Y",Nitrazepam
+High (Class III),CCP(=O)(CC)OP(=O)(CC)CC,,"1N,2N,3Y,4Y,40Y",Norbuprenorphine
+High (Class III),C1CN(CCN1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,,"1N,2N,3Y,4N",Norclozapine
+High (Class III),C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3,,"1N,2N,3Y,4N",Nordiazepam
+Intermediate (Class II),CC(C(C1=CC=CC=C1)O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Norephedrine
+High (Class III),CCC(=O)N(C1CCNCC1)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Norfentanyl
+High (Class III),CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,,"1N,2N,3Y,4N",Norfloxacin
+High (Class III),C1CC(NC1)C2=CN=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Nornicotine
+High (Class III),CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Nortriptyline
+Low (Class I),CNCC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Norvenlafaxine
+High (Class III),CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,,"1N,2N,3Y,4N",Ofloxacin
+High (Class III),CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Olanzapine
+High (Class III),CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Oxacillin
+High (Class III),CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Oxolinic acid
+High (Class III),CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Oxycodone
+,,,#N/A
+High (Class III),COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC,,"1N,2N,3Y,4N",Pantoprazole
+High (Class III),C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4,,"1N,2N,3Y,4N",Paroxetine
+High (Class III),C1=NC2=C(N1CCC(CO)CO)NC(=NC2=O)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Penciclovir
+High (Class III),CCCC(C)C1(C(=O)NC(=O)NC1=O)CC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pentobarbital
+High (Class III),CC1C(OCCN1C)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Phendimetrazine
+High (Class III),CN(C)CCC(C1=CC=CC=C1)C2=CC=CC=N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pheniramine
+High (Class III),CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Phenobarbital
+High (Class III),CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C,,"1N,2N,3Y,4Y,40Y",Pirimiphos methyl
+Low (Class I),CCCNC(C)C(=O)NC1=CC=CC=C1C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Prilocaine
+Low (Class I),CC(C)N(C1=CC=CC=C1)C(=O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",2-[(1-Methylethyl)phenylamino]-2-oxoacetic acid
+High (Class III),CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Propafenone
+Low (Class I),CC(C)OC(=O)NC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Propham
+High (Class III),CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,,"1N,2N,3Y,4N",Propiconazole
+High (Class III),C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42,,"1N,2N,3N,43Y",Quetiapine
+High (Class III),COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Quinine
+High (Class III),CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,,"1N,2Y",Ranitidine
+High (Class III),CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)OC)C(=O)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Remifentanyl
+High (Class III),CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,,"1N,2N,3Y,4N",Risperidone
+Low (Class I),CCN(C)C(=O)OC1=CC=CC(=C1)C(C)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Rivastigmine
+High (Class III),CN1C(=CN=C1COC(=O)N)[N+](=O)[O-],,"1N,2Y",Ronidazole
+High (Class III),C1CN(CCN1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F,,"1N,2N,3Y,4N",Sarafloxacin
+High (Class III),C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C,,"1N,2Y",Methscopolamine
+High (Class III),C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)CC(CC3=CC(=C(C=C3F)F)F)N,,"1N,2N,3Y,4N",Sitagliptin
+High (Class III),C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfadiazine
+High (Class III),COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfamethoxypyridazine
+High (Class III),CC1=C(OC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,,"1N,2N,3Y,4N",Sulfamoxole
+High (Class III),C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Sulfapyridine
+High (Class III),CC[NH+]1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,,"1N,2Y",Sulpiride
+Low (Class I),CCC(C1=CC(=CC=C1)O)C(C)CN(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Tapentadol
+High (Class III),CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3,,"1N,2N,3Y,4N",Temazepam
+High (Class III),CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3,,"1N,2N,3Y,4N",Tetrazepam
+Low (Class I),CC1(CC(=O)C2=CC=CC=C2C1=O)S(=O)(=O)O,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N)",THCA
+High (Class III),CN1C2=C(C(=O)N(C1=O)C)NC=N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Theophylline
+High (Class III),C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Thiabendazole
+High (Class III),CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl,,"1N,2Y",Thiamethoxam
+High (Class III),CCN(CC)CCNC(=O)C1=C(C=CC(=C1)S(=O)(=O)C)OC,,"1N,2N,3Y,4N",Tiapride
+High (Class III),CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C,,"1N,2N,3Y,4Y,40N,41N,7Y,8N,10N,11Y,33N",Topiramate
+Low (Class I),CCCC(CCC)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Valproic acid
+Low (Class I),C=CC(CCC(=O)O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Vigabatrin
+High (Class III),C1CC(N(C1)C(=O)CNC23CC4CC(C2)CC(C4)(C3)O)C#N,,"1N,2Y",Vildagliptin
+High (Class III),CC1=CC(=CC(=C1CC2=NCCN2)C)C(C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Xylometazoline
+High (Class III),CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Zolpidem
+High (Class III),CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl,,"1N,2N,3Y,4N",Zopiclone
+High (Class III),C1=CC=C2C(=C1)N=C(S2)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",2-Aminobenzothiazole
+High (Class III),C1=CC=C2C(=C1)N=NN2Cl,,"1N,2N,3Y,4N",1-Chlorobenzotriazole
+High (Class III),C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl,,"1N,2N,3Y,4N",Sulfachlorpyridazine
+High (Class III),CSC1=NC2=CC=CC=C2S1,,"1N,2N,3N,43Y",2-(Methylthio)benzothiazole
+High (Class III),C1=CC2=NNN=C2C=C1Cl,,"1N,2N,3Y,4N",5-Chlorobenzotriazole
+High (Class III),C(CS(=O)(=O)O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",6:2 FTS
+High (Class III),CC(C(=O)NC1=C(C(=C(C(=C1I)C(=O)NC(CO)CO)I)C(=O)NC(CO)CO)I)O,,"1N,2N,3Y,4N",Iopamidol
+4-Dichlorophenoxy)Acetic Acid,,,(3
+4-Dichlorobenzoic Acid,,,2
+High (Class III),CCNC1=NC(=O)N=C(N1)NC(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hydroxyatrazine
+5-Dichlorobenzoic Acid,,,3
+5-Di-Tert-Butyl-4-Hydroxybenzoic Acid,,,3
+High (Class III),CN(C)C1=NC=NC2=C1NC=N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",6-(Dimethylamino)purine
+High (Class III),C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Adenosine
+High (Class III),CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C,,"1N,2N,3Y,4N",Bupropion
+High (Class III),COC(=O)NC1=NC2=CC=CC=C2N1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Carbendazim
+High (Class III),CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Cholesterone
+High (Class III),CN1C(CCC1=O)C2=C[N+](=CC=C2)[O-],,"1N,2Y",Cotinine N-oxide
+High (Class III),CC(C)NC1=NC(=NC(=N1)N)Cl,,"1N,2N,3Y,4N",Deethylatrazine
+Low (Class I),CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)O)C=C3)C5=CC=CC=C5S(=O)(=O)O,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N)",Acid Blue 9
+High (Class III),CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-],,"1N,2Y",Fomesafen
+1-dimethylethyl)amino]-1-propanone,,,1-(3-Chlorophenyl)-2-[(2-hydroxy-1
+High (Class III),CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,,"1N,2N,3Y,4N",Losartan
+Low (Class I),CC(CC(=O)O)CC(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",3-Methylglutaric acid
+High (Class III),CN1CCCC1C2=CN=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Nicotine
+Low (Class I),C1=CC=C(C(=C1)C(=O)[O-])C(=O)[O-],,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Phthalic Acid
+High (Class III),CCCOC(=O)NCCCN(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Propamocarb
+High (Class III),C=CC(=O)OC(C1=CC=CC=C1)C(=O)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Ritalinic Acid
+High (Class III),CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O,,"1N,2N,3Y,4N",Tebuconazole
+High (Class III),CC(=NOCC1=CC=CC=C1C(=NOC)C(=O)OC)C2=CC(=CC=C2)C(F)(F)F,,"1N,2N,3Y,4N",Trifloxystrobin
+High (Class III),C1=CC(=C(C2=NC=C(C=C21)Cl)C(=O)O)Cl,,"1N,2N,3Y,4N",Quinclorac
+Low (Class I),COCCOCCOCCOCCOC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Tetraglyme
+High (Class III),CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Triethyl citrate
+High (Class III),CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Tributyl Citrate
+N?-Ethylene distearylamide,,,N
+High (Class III),C1CCOC(C1)N2C=NC3=C(N=CN=C32)NCC4=CC=CC=C4,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",BPA
+High (Class III),CN1C=NC2=C1C(=O)N(C(=O)N2)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Paraxanthine
+High (Class III),CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Progesterone
+High (Class III),CCC1C(C=C(C=CC(=O)C(CC(C(C(C(CC(=O)O1)O)C)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)C)COC4C(C(C(C(O4)C)O)OC)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,10N,11Y,33N",Tylosin
+Intermediate (Class II),CC(C)C(CC1=CC(=C(C=C1)OC)OCCCOC)CC(C(CC(C(C)C)C(=O)NCC(C)(C)C(=O)N)O)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Aliskiren
+High (Class III),CC[N+](CC)(CC1=CC=CC=C1)CC(=O)NC2=C(C=CC=C2C)C.C1=CC=C(C=C1)C(=O)[O-],,"1N,2Y",Denatonium benzoate
+Low (Class I),CC(C)NCC(COC1=CC=C(C=C1)C(C(=O)N)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Hydroxyatenolol
+High (Class III),COC1=CC(=CC(=C1OC)O)CC2=CN=C(N=C2N)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",3-Demethyltrimethoprim
+High (Class III),C1CCC(=O)OCCOCCOC(=O)C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",2-Hydroxycarbamazepine
+High (Class III),C1C(OC(S1)CO)N2C=C(C(=NC2=O)N)F,,"1N,2N,3Y,4N",Emtricitabine
+High (Class III),CC(C1=CC2=C(C=C1)C=C(C=C2)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",O-Desmethylnaproxen
+High (Class III),C1=NC2=C(N1COCCO)NC(=NC2=O)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Aciclovir
+High (Class III),C1C2=CC=CC=C2N(C1=O)C3=C(C=CC=C3Cl)Cl,,"1N,2N,3Y,4N",Diclofenac-lactam
+High (Class III),CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O,,"1N,2Y",Bicalutamide
+Low (Class I),CC1=CC=C(C=C1)S(=O)(=O)O,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19N,23N,24Y,18N)",p-Toluenesulfonic acid
+High (Class III),C1=CC=C2C(=C1)C(=CN2)CCC(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",o-Toluenesulfonic acid
+High (Class III),CC(C)(C)NC1=NC(=NC(=N1)NC2CC2)SC,,"1N,2N,3N,43Y",Irgarol
+High (Class III),CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C,,"1N,2N,3Y,4N",Terbuthylazine
+Low (Class I),CC(C)CC(CC(=O)O)CN,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Pregabalin
+Low (Class I),CCN(CC)C(=O)C1=CC(=CC=C1)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",3-[(Diethylamino)carbonyl]benzoic acid
+High (Class III),C1=C2C(=NC(=O)NC2=O)NN1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Oxypurinol
+High (Class III),CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)O)C(C)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Olmesartan
+11-Dihydroxycarbamazepine,,,10
+3-benzenedisulfonamide,,,4-Amino-6-chloro-1
+High (Class III),CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C,,"1N,2N,3Y,4N",Acetylsulfamethoxazole
+High (Class III),CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)C)I,,"1N,2N,3Y,4N",Diatrizoic acid
+High (Class III),CCNC1=NC(=O)N=C(N1)NC(C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hydroxyterbuthylazine
+High (Class III),CNC(=O)NC1=CC(=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",N-Demethoxylinuron
+High (Class III),C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Acridone
+Low (Class I),CCNCC(=O)NC1=C(C=CC=C1C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Norlidocaine
+High (Class III),CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",Dichlorprop
+High (Class III),CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl,,"1N,2N,3Y,4N",Metazachlor
+High (Class III),C1=CC=C(C(=C1)C2C(O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl,,"1N,2N,3Y,4N",Epoxiconazole
+High (Class III),CN(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO,,"1N,2N,3Y,4N",Iomeprol
+High (Class III),CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1,,"1N,2N,3Y,4N",Quinmerac
+High (Class III),C1=CC=C(C=C1)NC(=O)NC2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Carbanilide
+Low (Class I),CC(CC1=CC=C(C=C1)C(C)C(=O)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Carboxyibuprofen
+High (Class III),C[N+](C)(CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F)[O-],,"1N,2Y",Citalopram N-oxide
+High (Class III),CC1=NC(=O)C(=NN1)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Desaminometamitron
+High (Class III),CNCC1=CC=C(O1)CSCCN(C)C(=C[N+](=O)[O-])N,,"1N,2Y",Desmethylranitidine
+Low (Class I),CC(=NOC)C(=O)C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Didesmethylcitalopram
+High (Class III),C[N+](C)(CCOC(C1=CC=CC=C1)C2=CC=CC=C2)[O-],,"1N,2Y",Diphenhydramine N-oxide
+Low (Class I),CC(C)NCC(COC1=CC=C(C=C1)C(COC)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",?-Hydroxymetoprolol
+High (Class III),CC1=NN=C(C(=O)N1N)C2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Metamitron
+Low (Class I),CCC1=CC=CC(=C1N(C(C)COC)C(=O)C(=O)O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Metolachlor oxanilic acid
+High (Class III),CCN(CC)CC1=C(C(=CC(=C1)C(C)(C)C)C2=CC=CC=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",O-Demethylmetoprolol
+High (Class III),CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2C3CCCC3CC2C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Ramipril
+High (Class III),CC(C(=O)N1C2CCCC2CC1C(=O)O)NC(CCC3=CC=CC=C3)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Ramiprilat
+High (Class III),CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)C[N+](C)(C)[O-],,"1N,2Y",Ranitidine N-oxide
+High (Class III),CCC[N+](CCC)(CCC)CCC,,"1N,2Y",Tetrapropylammonium
+Low (Class I),CC1=CC=CC=C1N=C(N)N=C(N)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",o-Tolylbiguanide
+High (Class III),CC1=CC(=CC=C1)NC2=C(C=NC=C2)S(=O)(=O)NC(=O)NC(C)C,,"1N,2N,3Y,4N",Torsemide
+High (Class III),CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N,,"1N,2N,3Y,4N",Xipamide
+High (Class III),CC1=CC=C(C=C1)S(=O)(=O)O.CN(C)CC(C1=CC=C(C2=CC=CC=C21)Cl)O,,"1N,2N,3Y,4N",?-Endosulfan
+High (Class III),CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-],,"1N,2Y",Pendimethalin
+High (Class III),C(=O)C(Cl)(Cl)Cl,,"1N,2N,3Y,4N",Trichloroacetaldehyde
+High (Class III),CC(=O)CCl,,"1N,2N,3Y,4N",Chloroacetone
+High (Class III),C1=CC=C(C(=C1)O)Cl,,"1N,2N,3Y,4N",2-chlorophenol
+4-dichlorophenol,,,2
+4,,,2
+High (Class III),C([N+](=O)[O-])(Cl)(Cl)Cl,,"1N,2Y",Chloropicrin
+3-Dichlorobenzene,,,1
+High (Class III),CCCC[Sn](=O)CCCC.CCCC[Sn](CCCC)(CCCC)CCCC,,"1N,2N,3Y,4N",Tributyltin oxide
+High (Class III),C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Hexachlorobutadiene
+Low (Class I),C(C(=O)O)N(CC(=O)O)CC(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Nitrilotriacetic acid
+3-dichloropropane,,,1
+3-dichloropropene,,,1
+4-DB,,,2
+High (Class III),CC(C)(C=NOC(=O)NC)SC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Aldicarb
+High (Class III),CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl,,"1N,2N,3Y,4N",Chlorotoluron
+,,,#N/A
+High (Class III),CCSC(=O)N1CCCCCC1,,"1N,2N,3N,43Y",Molinate
+High (Class III),CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],,"1N,2Y",Parathion
+High (Class III),C1=CC=NC(=C1)C(=O)[O-],,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pyridate
+High (Class III),CC(COC1=CC=C(C=C1)OC2=CC=CC=C2)OC3=CC=CC=N3,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pyriproxyfen
+3,,,2
+2,,,1
+3,,,2
+2,,,1
+2,,,1
+3,,,2
+2,,,1
+2,,,1
+2,,,1
+2,,,1
+4-dinitrotoluene,,,2
+6-dinitrotoluene,,,2
+High (Class III),CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C,,"1N,2N,3Y,4N",Acetochlor
+2-diphenylhydrazine,,,1
+High (Class III),C1=CC=C2C=CC=CC2=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Naphthalene
+High (Class III),CCOP(=S)(OCC)SCCSCC,,"1N,2N,3Y,4Y,40Y",Disulfoton
+High (Class III),CCOP(=S)(CC)SC1=CC=CC=C1,,"1N,2N,3Y,4Y,40Y",Fonofos
+High (Class III),CCOP(=S)(OCC)SCSC(C)(C)C,,"1N,2N,3Y,4Y,40Y",Terbufos
+Low (Class I),C(CO)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Ethylene glycol
+High (Class III),CCCN(CCC)C(=O)SCC,,"1N,2N,3N,43Y",EPTC
+High (Class III),C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],,"1N,2Y",RDX
+Low (Class I),CC1=CC=CC=C1O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",2-Methylphenol
+4-dinitrophenol,,,2
+Low (Class I),CCCCC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",n-Butylbenzene
+Low (Class I),CC(C)(C)C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Tert-Butylbenzene
+High (Class III),CC1=CC=CC=C1Cl,,"1N,2N,3Y,4N",2-Chlorotoluene
+High (Class III),CC1=CC=C(C=C1)Cl,,"1N,2N,3Y,4N",4-Chlorotoluene
+High (Class III),C(F)(F)(Cl)Cl,,"1N,2N,3Y,4N",Dichlorodifluoromethane
+Low (Class I),CC(C)C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Isopropylbenzene
+2,,,1
+3,,,1
+High (Class III),C(=S)=S,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Carbon Disulfide
+Low (Class I),CC(C)CC(=O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",Methyl isobutyl ketone
+High (Class III),CC(C)(C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",tert-Butyl alcohol
+High (Class III),[V],,"1N,2N,3Y,4N",Vanadium
+Low (Class I),C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Phenol
+Low (Class I),COC(=O)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Methylparaben
+Low (Class I),CCOC(=O)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Ethylparaben
+Low (Class I),CCCCOC(=O)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Butylparaben
+Low (Class I),CC(C)(C)C1=C(C=CC(=C1)OC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",2-tert-Butyl-4-methoxyphenol
+6-Dimethyl-1H-benzotriazole,,,5
+3-Benzothiazole,,,1
+High (Class III),C1=CC=C2C(=C1)N=C(S2)S,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",2-Mercaptobenzothiazole
+High (Class III),C1=CC=C(C(=C1)CC2=CC=CC=C2O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Bisphenol F
+High (Class III),CC1=NNC(=O)N(C1)N=CC2=CN=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pymetrozine
+High (Class III),COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC,,"1N,2N,3Y,4N",Pyraclostrobin
+High (Class III),COC(=O)C12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl,,"1N,2N,3Y,4N",Indoxacarb
+High (Class III),COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC,,"1N,2N,3Y,4N",Dimethomorph
+Low (Class I),CC(C)(C)CC(C)(C)C1=CC=CC=C1O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Octylphenol
+High (Class III),CC(C)CC(C)(C#CC(C)(CC(C)C)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Surfynol 104
+6-Di-tert-butyl-4-methylphenol,,,2
+6-Di-t-butylphenol,,,2
+High (Class III),CC1(C(C2=C(O1)C(=CC=C2)OC(=O)NC)O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",3-Hydroxycarbofuran
+4-Dichloroaniline,,,3
+5-dimethylphenol,,,4-Chloro-3
+Low (Class I),CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-tert-Octylphenol
+Low (Class I),CC(=O)OC1=CC=CC=C1C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Acetylsalicylic acid
+High (Class III),CC(C)(C=NOC(=O)NC)S(=O)(=O)C,,"1N,2N,3Y,4N",Aldicarb sulfone
+High (Class III),CC(C)(C=NOC(=O)NC)S(=O)C,,"1N,2N,3Y,4N",Aldicarb sulfoxide
+Intermediate (Class II),CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17Y(19N,23N,24N,25N,26Y)(18N)",Allethrin
+,,,#N/A
+High (Class III),CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Androsterone
+High (Class III),COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1,,"1N,2N,3Y,4Y,40Y",Azinphos-methyl
+High (Class III),CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Benalaxyl
+High (Class III),CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Bendiocarb
+High (Class III),CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",Bioresmethrin
+High (Class III),CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Bitertanol
+High (Class III),CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)Br)Cl,,"1N,2N,3Y,4N",Bromophos-ethyl
+High (Class III),CCC(C)SP(=O)(OCC)SC(C)CC,,"1N,2N,3Y,4Y,40Y",Cadusafos
+High (Class III),C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl,,"1N,2N,3Y,4N",Captan
+High (Class III),CNC(=O)OC1=CC=CC2=CC=CC=C21,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Carbaryl
+High (Class III),CCOP(=S)(OCC)SCSC1=CC=C(C=C1)Cl,,"1N,2N,3Y,4N",Carbophenothion
+High (Class III),CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Cephalexin
+High (Class III),C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],,"1N,2Y",Chloramphenicol
+High (Class III),C1C=CC2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlordene
+High (Class III),C1C2C(C3C1O3)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlordene Epoxide
+High (Class III),C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)O,,"1N,2N,3Y,4N",1-Hydroxychlordene
+High (Class III),C12C(C(C3(C1O3)Cl)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Oxychlordane
+High (Class III),CCOC(C(F)(F)F)O,,"1N,2N,3Y,4N",Chlorfenvinphos
+High (Class III),CCOP(=O)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlorpyrifos oxon
+High (Class III),COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Chlorpyrifos-methyl
+,,,#N/A
+High (Class III),C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",cis-Chlordane
+High (Class III),C1=CC(=NC(=C1Cl)C(=O)[O-])Cl,,"1N,2N,3Y,4N",Clopyralid
+High (Class III),CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C,,"1N,2N,3Y,4N",Coumaphos
+High (Class III),CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C,,"1N,2Y",Cyfluthrin
+High (Class III),CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C,,"1N,2Y",Cyhalothrin
+High (Class III),CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,,"1N,2Y",Cypermethrin
+High (Class III),C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,,"1N,2N,3Y,4N",Dapsone
+High (Class III),CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,,"1N,2Y",Deltamethrin
+High (Class III),CCSCCSP(=O)(OC)OC,,"1N,2N,3Y,4Y,40Y",Demeton-S-methyl
+High (Class III),COC1=C(C=CC(=C1C(=O)O)Cl)Cl,,"1N,2N,3Y,4N",Dicamba
+High (Class III),CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl,,"1N,2N,3Y,4N",Dichlofluanid
+High (Class III),COP(=O)(OC)OC=C(Cl)Cl,,"1N,2N,3Y,4N",Dichlorvos
+High (Class III),CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl,,"1N,2N,3Y,4N",Diclofop-methyl
+High (Class III),C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-],,"1N,2Y",Dicloran
+High (Class III),C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl,,"1N,2N,3Y,4N",Dicofol
+High (Class III),CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC,,"1N,2N,3Y,4Y,40Y",Dioxathion
+High (Class III),CC(C1=CC=CC=C1)(C2=CC=CC=N2)OCCN(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Doxylamine
+High (Class III),C1C2C(CO1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Endosulfan Ether
+High (Class III),C1C2C(C(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Endosulfan Lactone
+High (Class III),C1C2C(COS(=O)(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Endosulfan Sulfate
+High (Class III),C1C(C2C3C1C4C5(C2(C(C3(C45Cl)Cl)(Cl)Cl)Cl)Cl)C=O,,"1N,2N,3Y,4N",Endrin aldehyde
+High (Class III),CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,,"1N,2N,3Y,4Y,40Y",Ethion
+High (Class III),CCCSP(=O)(OCC)SCCC,,"1N,2N,3Y,4Y,40Y",Ethoprophos
+High (Class III),CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Etiocholanolone
+High (Class III),CCC1=NC(=CC(=N1)OP(=S)(OC)OC)OCC,,"1N,2N,3Y,4Y,40Y",Etrimphos
+High (Class III),CN(C)S(=O)(=O)C1=CC=C(C=C1)OP(=S)(OC)OC,,"1N,2N,3Y,4N",Famphur
+High (Class III),CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C,,"1N,2N,3Y,4Y,40Y",Fenamiphos
+High (Class III),COP(=S)(OC)OC1=CC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Fenchlorphos
+High (Class III),CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC,,"1N,2N,3Y,4Y,40Y",Fenthion-methyl
+Intermediate (Class II),CCCCCCCCCC(CCCCCCCCC)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18Y",Fenthion-ethyl
+High (Class III),CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,,"1N,2Y",Fenvalerate
+High (Class III),CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F,,"1N,2N,3Y,4N",Fluazifop-butyl
+High (Class III),CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl,,"1N,2Y",Fluvalinate
+High (Class III),CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F,,"1N,2N,3Y,4N",Fluvastatin
+High (Class III),CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)C2=CC=CO2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Furalaxyl
+High (Class III),CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,,"1N,2N,3Y,4N",Haloxyfop
+High (Class III),C1=CC=C2C(=C1)C=CC3=C2C4=C(C=C3)C(C(C5C4O5)O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10Y",Haloxyfop-ethoxyethyl
+High (Class III),CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,,"1N,2N,3Y,4N",Haloxyfop-methyl
+High (Class III),CN1C(=NC(=O)N(C1=O)C2CCCCC2)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Hexazinone
+High (Class III),C1CN(P(=O)(OC1)NCCCl)CCCl,,"1N,2N,3Y,4N",Ifosfamide
+High (Class III),CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C,,"1N,2N,3Y,4Y,40Y",Isofenphos
+High (Class III),CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C,,"1N,2Y",Lambda-cyhalothrin
+High (Class III),CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,,"1N,2N,3Y,4Y,40Y",Malathion
+Low (Class I),CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Metalaxyl
+High (Class III),COC1=NN(C(=O)S1)CSP(=S)(OC)OC,,"1N,2N,3Y,4Y,40Y",Methidathion
+High (Class III),CC1=CC(=CC(=C1SC)C)OC(=O)NC,,"1N,2N,3N,43Y",Methiocarb
+High (Class III),CC(=NOC(=O)NC)SC,,"1N,2N,3N,43Y",Methomyl
+High (Class III),CC(=NO)SC,,"1N,2N,3N,43Y",Methomyl oxime
+High (Class III),CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Methoprene
+High (Class III),CC(=CC(=O)OC)OP(=O)(OC)OC,,"1N,2N,3Y,4Y,40Y",Mevinphos
+High (Class III),C1COCCN1CCNC(=O)C2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Moclobemide
+High (Class III),CC(=CC(=O)NC)OP(=O)(OC)OC,,"1N,2N,3Y,4Y,40Y",Monocrotophos
+High (Class III),CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],,"1N,2Y",Musk Xylene
+High (Class III),CCCCNS(=O)(=O)C1=CC=CC=C1,,"1N,2N,3Y,4N",N-Butylbenzenesulfonamide
+High (Class III),CCCCNS(=O)(=O)C1=CC=C(C=C1)C,,"1N,2N,3Y,4N",N-Butyl-4-methylbenzenesulfonamide
+p?-DDD,,,o
+p?-DDE,,,o
+High (Class III),CNC(=O)CSP(=O)(OC)OC,,"1N,2N,3Y,4Y,40Y",Omethoate
+High (Class III),CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl,,"1N,2N,3Y,4N",Oxadiazon
+High (Class III),CN(C)C(=O)C(=NO)SC,,"1N,2N,3N,43Y",Oxamyl oxime
+High (Class III),CCS(=O)CCSP(=O)(OC)OC,,"1N,2N,3Y,4N",Oxydemeton-methyl
+High (Class III),CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-],,"1N,2Y",Oxyfluorfen
+p?-DDD,,,p
+p?-DDE,,,p
+High (Class III),COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],,"1N,2Y",Parathion-methyl
+High (Class III),CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17Y(18N)(19N,23Y,27Y,28Y,29N,33N)",Phenothrin
+High (Class III),CCOP(=S)(OCC)SCSCC,,"1N,2N,3Y,4Y,40Y",Phorate
+High (Class III),COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O,,"1N,2N,3Y,4Y,40Y",Phosmet
+High (Class III),CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl,,"1N,2N,3Y,4N",Phosphamidon
+High (Class III),CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Piperonyl Butoxide
+High (Class III),CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pirimicarb
+High (Class III),C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Praziquantel
+High (Class III),CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C,,"1N,2N,3Y,4N",Procymidone
+High (Class III),CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl,,"1N,2N,3Y,4N",Profenofos
+Low (Class I),CC1=CC(=CC(=C1)OC(=O)NC)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Promecarb
+High (Class III),CC(C)(C)C1=CC=C(C=C1)OC2CCCCC2OS(=O)OCC#C,,"1N,2N,3Y,4N",Propargite
+High (Class III),CCCSP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl,,"1N,2N,3Y,4N",Prothiophos
+High (Class III),CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C,,"1N,2N,3Y,4Y,40Y",Pyrazophos
+High (Class III),CC(=C)C1CC2=C(O1)C=CC3=C2OC4COC5=CC(=C(C=C5C4C3=O)OC)OC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Rotenone
+,,,#N/A
+High (Class III),C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2,,"1N,2N,3Y,4N",Sulphathiazole
+High (Class III),CCCSP(=S)(OCC)OC1=CC=C(C=C1)SC,,"1N,2N,3Y,4Y,40Y",Sulprofos
+High (Class III),CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Tebuthiuron
+High (Class III),COP(=O)(OC)OC(=CCl)C1=CC(=C(C=C1Cl)Cl)Cl,,"1N,2N,3Y,4N",Tetrachlorvinphos
+,,,#N/A
+High (Class III),C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Tetradifon
+High (Class III),CC(=CC1C(C1(C)C)C(=O)OCN2C(=O)C3=C(C2=O)CCCC3)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Tetramethrin
+High (Class III),CC(=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC)SC,,"1N,2N,3N,43Y",Thiodicarb
+Low (Class I),CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Tonalid
+High (Class III),C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",trans-Chlordane
+,,,#N/A
+High (Class III),CC1(C(C1C(=O)OCC2=C(C(=CC(=C2F)F)F)F)C=C(Cl)Cl)C,,"1N,2N,3Y,4N",Transfluthrin
+High (Class III),CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Triadimefon
+High (Class III),CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O,,"1N,2N,3Y,4N",Triadimenol
+High (Class III),CC(C)N(C(C)C)C(=O)SCC(=C(Cl)Cl)Cl,,"1N,2N,3Y,4N",Triallate
+High (Class III),C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl,,"1N,2N,3Y,4N",Triclopyr
+High (Class III),CC(COP(=O)(OCC(C)Cl)OCC(C)Cl)Cl,,"1N,2N,3Y,4N",Tris(2-chloropropyl) phosphate
+High (Class III),CC(C(OP(=O)(OCCC(Cl)Cl)OCC(CCl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Tris(dichloropropyl) phosphate
+High (Class III),CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C,,"1N,2N,3Y,4N",Vinclozolin
+High (Class III),CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9Y",Warfarin
+,,,#N/A
+,,,#N/A
+High (Class III),C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",?-Hexachlorocyclohexane
+2?,,,2
+2?,,,2
+2?,,,2
+2?,,,2
+High (Class III),C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",EDTA
+High (Class III),CCCC[Sn+](CCCC)CCCC,,"1N,2N,3Y,4N",Tributyltin
+High (Class III),CCC(C)N1C(=O)C(=C(NC1=O)C)Br,,"1N,2N,3Y,4N",Bromacil
+High (Class III),C1=CC=C2C(=C1)C=C3C=CC=CC3=N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",Acridine
+Low (Class I),CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29Y(19Y,20Y,21N,44N,18N)(30N,18N)(30N,18N)",Benzyl butyl phthalate
+Low (Class I),CC(CC1=CC=CC=C1)N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",amphetamine
+High (Class III),CCN(CC)C(=O)C1CCCCC1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Tetrahydrocannabinol-7-oic acid
+High (Class III),COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC,,"1N,2N,3Y,4N",sulfadimethoxin
+Low (Class I),CC(=O)NC1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Acetanilide
+High (Class III),CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,,"1N,2N,3Y,4N",Betamethasone
+High (Class III),C1=CC=C(C=C1)CC2=C(C=CC(=C2)Cl)O,,"1N,2N,3Y,4N",Chlorophene
+High (Class III),C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,,"1N,2N,3Y,4N",Clotrimazole
+High (Class III),CC(C)(C(=O)[O-])OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,,"1N,2N,3Y,4N",Fenofibric acid
+High (Class III),CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Fenoprofen
+High (Class III),CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,,"1N,2N,3Y,4N",Loratadine
+High (Class III),CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Methylprednisolone
+Intermediate (Class II),CC(C)(C)NCC(COC1=CC=CC2=C1CC(C(C2)O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18Y",Nadolol
+High (Class III),CCOC(=O)C1=C(NC(=C(C1C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC)C)C,,"1N,2Y",Nitrendipine
+High (Class III),CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Pentoxifylline
+High (Class III),CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Pravastatin
+High (Class III),CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,,"1N,2N,3Y,4N",Celecoxib
+Low (Class I),CN(C)CC1CCCCC1(C2=CC(=CC=C2)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",3-[2-[(Dimethylamino)methyl]-1-hydroxycyclohexyl]phenol
+High (Class III),C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O,,"1N,2N,3Y,4N",Domperidone
+High (Class III),CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Labetalol
+High (Class III),C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl,,"1N,2N,3Y,4N",Trazodone
+High (Class III),CC(C)CC1(C(=O)NC(=O)NC1=O)CC=C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Butalbital
+High (Class III),CCCC(C)(COC(=O)N)COC(=O)NC(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",Carisoprodol
+High (Class III),CC1=C(N=CN1)CSCCNC(=NC)NC#N,,"1N,2Y",Cimetidine
+High (Class III),C1(=NC(=NC(=N1)Cl)N)N,,"1N,2N,3Y,4N",DACT
+High (Class III),CCNCC,,"1N,2Y",DEA
+Low (Class I),CC(C)COC(=O)C1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Isobutylparaben
+High (Class III),CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,,"1N,2Y",Nifedipine
+3-dichloro-2-propyl) phosphate,,,Tris(1
+High (Class III),CN1C=NC2=C1C(=O)NC(=O)N2C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Theobromine
+High (Class III),C1=CC=C(C=C1)CC2NC3=C(C=C(C(=C3)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N2,,"1N,2N,3Y,4N",Bendroflumethiazide
+High (Class III),COC(=O)NN=CC1=[N+](C2=CC=CC=C2[N+](=C1)[O-])[O-],,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Carbadox
+High (Class III),C1=CC2=C3C(=C1)C=CC3=CC=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Acenaphthylene
+High (Class III),C1CC2=CC=CC3=C2C1=CC=C3,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Acenaphthene
+High (Class III),C1=CC=C2C(=C1)C=CC3=CC=CC=C32,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Phenanthrene
+High (Class III),C1=CC=C2C=C3C=CC=CC3=CC2=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Anthracene
+High (Class III),C1C2=CC=CC=C2C3=CC=CC=C31,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Fluorene
+High (Class III),C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Pyrene
+High (Class III),C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Chrysene
+High (Class III),C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Benzo[a]anthracene
+High (Class III),C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Fluoranthene
+High (Class III),C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Benzo[b]fluoranthene
+High (Class III),C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Benzo[k]fluoranthene
+h]anthracene,,,Dibenzo[a
+2,,,Indeno[1
+High (Class III),C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27N",Benzo[ghi]perylene
+High (Class III),C1=CC(=CC=C1[N+](=O)[O-])[O-],,"1N,2Y",4-nitrophenol
+High (Class III),CC1=C(C=CC(=C1)O)Cl,,"1N,2N,3Y,4N",4-Chloro-3-methylphenol
+High (Class III),CC12CCC3C(C1CCC2O)CCC4=CC(=O)C=CC34C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Boldenone
+Low (Class I),C1=CC=C(C=C1)COC(=O)C2=CC=C(C=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29Y(30N,18N)(30N,18N)",Benzyl 4-hydroxybenzoate
+High (Class III),C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO,,"1N,2N,3Y,4N",Fluphenazine
+Low (Class I),COC1=CC=CC=C1CCC=O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Cashmeran
+Low (Class I),CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Celestolide
+Low (Class I),CC1C(C2=C(C1(C)C)C=C(C(=C2)C)C(=O)C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Phantolide
+High (Class III),CC1CCC2C13CC(C2(C)C)C(=C(C3)C(=O)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Acetylcedrene
+Low (Class I),C1CCCCOC(=O)CCCCCC=CCCC1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9N,20Y,21N,44N,18N",Musk ambrette
+Low (Class I),CC1C(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Traseolide
+High (Class III),CC1=C(C=C2C(=C1[N+](=O)[O-])C(CC2(C)C)(C)C)[N+](=O)[O-],,"1N,2Y",Musk moskene
+High (Class III),CC1=C(C(=C(C(=C1C)[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C,,"1N,2Y",Musk tibetene
+Low (Class I),CCCCC(CC)COC(=O)C=CC1=CC=C(C=C1)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Octyl methoxycinnamate
+High (Class III),CCCCC(CC)COC(=O)C(=C(C1=CC=CC=C1)C2=CC=CC=C2)C#N,,"1N,2Y",Octocrylene
+High (Class III),C1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",benzophenone 1
+High (Class III),C1=CC(=C(C=C1O)O)C(=O)C2=C(C=C(C=C2)O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",benzophenone 2
+Low (Class I),COC1=C(C=C(C(=C1)O)C(=O)C2=CC=CC=C2)S(=O)(=O)O,,"1N,2N,3Y,4Y(40N,41N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N)",benzophenone 4
+2?-Dihydroxy-4-methoxybenzophenone,,,2
+Low (Class I),CC1=CC=C(C=C1)C=C2C3CCC(C2=O)(C3(C)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",3-(4?-Methylbenzylidene)camphor
+High (Class III),C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O,,"1N,2N,3Y,4N",benzoate
+High (Class III),CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",nalidixic acid
+High (Class III),CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=CC=N2,,"1N,2N,3Y,4N",Acetylsulfadiazine
+High (Class III),CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C,,"1N,2N,3Y,4N",N4-acetylsulfamerazine
+High (Class III),CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C)C,,"1N,2N,3Y,4N",N4-acetylsulfamethazine
+High (Class III),CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=N2,,"1N,2N,3Y,4N",N4-acetylsulfapyridine
+High (Class III),C1=CC(=C(C=C1C2=C(C(=C(C(=C2Br)Br)Br)Br)Br)Br)Br,,"1N,2N,3Y,4N",norfluoxetine
+High (Class III),CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Enalapril
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)[O-].[Na+],,"1N,2N,3Y,4N",Metamizol
+High (Class III),CCN(C)N=O,,"1N,2Y",Nitrosomethylethylamine
+High (Class III),C1CCN(CC1)N=O,,"1N,2Y",N-nitrosopyrrolidine
+High (Class III),CCCCN(CCCC)N=O,,"1N,2Y",Nitrosodibutylamine
+High (Class III),CC1=C(C=CC=C1NC2=C(C=CC=N2)C(=O)O)C(F)(F)F,,"1N,2N,3Y,4N",Flunixin
+Intermediate (Class II),CCCCCC1C(CCC1=O)CC(=O)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26Y",Hedione
+Low (Class I),C1=CC=C(C=C1)CCC(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Benzenepropanoic acid
+6-Dichlorobenzonitrile,,,2
+High (Class III),C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=C(C=C6)Br,,"1N,2N,3Y,4N",Brodifacoum
+High (Class III),C1=CC=C(C=C1)C(CC(C2=CC=C(C=C2)C3=CC=C(C=C3)Br)O)C4=C(C5=CC=CC=C5OC4=O)O,,"1N,2N,3Y,4N",Bromadiolone
+High (Class III),C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9Y",Difenacoum
+,,,#N/A
+,,,#N/A
+High (Class III),CC(C(=O)N1CCCC1C(=O)O)NC(CCC2=CC=CC=C2)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Enalaprilat
+High (Class III),CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)[O-],,"1N,2N,3Y,4N",Estrone sulfate
+High (Class III),CC12CCC3C(C1CCC2C(=O)NC(C)(C)C)CCC4C3(C=CC(=O)N4)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Finasteride
+High (Class III),C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Lisinopril
+High (Class III),CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",4-(Methylamino)antipyrine
+High (Class III),CC1=C(C(=CN=C1CS(=O)C2=NC3=C(N2)C=C(C=C3)OC)CO)OC,,"1N,2N,3Y,4N",Hydroxyomeprazole
+High (Class III),CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Morphine
+High (Class III),CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)[O-])O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8Y,9Y",Mycophenolic acid
+High (Class III),CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Prednisolone
+High (Class III),CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C,,"1N,2N,3Y,4N",Sildenafil
+2R)-1-Hydroxy-2-[(methylamino)methyl]cyclohexyl]phenol,,,3-[(1R
+2,,,1
+3,,,1
+High (Class III),CCCC(CCC(CC(C(CCC(CCC(C(CC(C)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Chloroalkanes
+High (Class III),CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Tetrahydrocannabinol
+High (Class III),CCOP(=O)(SC1=CC=CC=C1)SC2=CC=CC=C2,,"1N,2N,3Y,4Y,40Y",EDDP
+4-Methylenedioxymethamphetamine,,,3
+Low (Class I),CC(CC1=CC=CC=C1)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",DL-methamphetamine
+High (Class III),C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl,,"1N,2Y",Aclonifen
+High (Class III),C1(=NC(=O)N=C(N1)N)N,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Ammeline
+High (Class III),COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-],,"1N,2Y",Bifenox
+High (Class III),C1=C(C=C(C(=C1Br)O)Br)C#N,,"1N,2Y",Bromoxynil
+High (Class III),CN1C(=O)C(=C(C=N1)N)Cl,,"1N,2N,3Y,4N",Methyldesphenylchloridazon
+High (Class III),CN=C(NCC1=CN=C(S1)Cl)N[N+](=O)[O-],,"1N,2Y",Clothianidin
+4?-Dichlorobenzophenone,,,4
+High (Class III),CCOP(=O)(OCC)SCCSCC,,"1N,2N,3Y,4Y,40Y",Demeton
+4-dichlorobenzonitrile,,,2
+High (Class III),C(N)P(=O)(O)O,,"1N,2N,3Y,4Y,40N,41N,7N,16N,17N,19Y,20N,22N,33N",(Aminomethyl)phosphonic acid
+High (Class III),C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl,,"1N,2N,3Y,4N",Imazalil
+Low (Class I),CC(C)C1=CC=CC=C1OC(=O)NC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",Isoprocarb
+High (Class III),C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Lenacil
+High (Class III),C1=CC(=CC(=C1)C(F)(F)F)C(=NNC(=O)NC2=CC=C(C=C2)OC(F)(F)F)CC3=CC=C(C=C3)C#N,,"1N,2Y",Metaflumizone
+High (Class III),CC1OC(OC(OC(O1)C)C)C,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12N,22N,33N",Metaldehyde
+High (Class III),C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,,"1N,2N,3Y,4N",Pentachlorobenzene
+High (Class III),CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2,,"1N,2N,3Y,4N",Prochloraz
+High (Class III),C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F,,"1N,2N,3Y,4N",Quinoxyfen
+High (Class III),CC(C)(C)NC1=NC(=NC(=N1)N)Cl,,"1N,2N,3Y,4N",Desethylterbutylazine
+High (Class III),CCN(CC)C(=O)SCC1=CC=C(C=C1)Cl,,"1N,2N,3Y,4N",Thiobencarb
+High (Class III),C1=CC(=CC=C1OC2=C(C=C(C=C2)Br)Br)Br,,"1N,2N,3Y,4N",BDE 28
+High (Class III),C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,,"1N,2N,3Y,4N",BDE 154
+High (Class III),C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,,"1N,2N,3Y,4N",BDE 183
+5-dimethyl-1,,,2-Ethyl-5
+5-dimethyl-1,,,2-isopropyl-5
+5-dimethyl-1,,,5
+3-dioxolane,,,Cis-2-ethyl-4-methyl-1
+High (Class III),CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl,,"1N,2Y",Myclobutanil
+High (Class III),CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,,"1N,2N,3Y,4N",Penconazole
+High (Class III),C1=CC=C(C=C1)COC2=C(C=CC=N2)C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Perfluorodecanesulfonic acid
+High (Class III),C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,,"1N,2N,3Y,4N",Perfluorooctanesulfonamide
+High (Class III),CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11Y,33N",Perindopril
+Low (Class I),C1=CC(=CC=C1C(=O)[O-])N,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-Aminobenzoic acid
+Low (Class I),CCCCC(CC)COC(=O)C1=CC=C(C=C1)N(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",2-Ethylhexyl 4-(dimethylamino)benzoate
+High (Class III),CC(C)(C)C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=C(C=C2)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",Avobenzone
+High (Class III),COP(=O)(C(C(Cl)(Cl)Cl)O)OC,,"1N,2N,3Y,4N",Trichlorfon
+High (Class III),CCNC,,"1N,2Y",N-Ethyl-N-methylamine
+High (Class III),C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl,,"1N,2Y",Chlorothalonil
+High (Class III),CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,,"1N,2N,3Y,4N",dexamethasone
+High (Class III),CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",prednisone
+High (Class III),CC12CC(C3(C(C1CC(C2(C(=O)CO)O)O)CCC4=CC(=O)C=CC43C)F)O,,"1N,2N,3Y,4N",triamcinolone
+High (Class III),CC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",norethindrone
+High (Class III),C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",anthraquinone
+Intermediate (Class II),CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22Y",cholesterol
+High (Class III),CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Coprostanol
+High (Class III),CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",(-)-?-Sitosterol
+High (Class III),CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",Sitostanol
+High (Class III),CC(C)(C1=CC=CC=C1)C2=CC=C(C=C2)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",4-cumylphenol
+Low (Class I),CCCCCCCCCC1=CC=C(C=C1)OCCOCCO,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-nonylphenol diethoxylate
+Low (Class I),CCCCCCCCCC1=CC=C(C=C1)OCCO,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-nonylphenol monoethoxylate
+Low (Class I),CCCCCCCCC1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-n-octylphenol
+High (Class III),CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC,,"1N,2N,3Y,4Y,40Y",tri(2-butoxyethyl) phosphate
+Low (Class I),CC(=O)C1=CC=CC=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",acetophenone
+Low (Class I),CC1=CCC(CC1)C(=C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16Y",d-limonene
+High (Class III),CC1(C2CCC1(C(=O)C2)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26N,22N,33N",camphor
+High (Class III),C1=CC=C2C(=C1)C=CN2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",indole
+Low (Class I),CC1(C2CCC1(C(C2)O)C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16Y",isoborneol
+High (Class III),C1=CC=C2C=NC=CC2=C1,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",Isoquinoline
+Low (Class I),CC1CCC(C(C1)O)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16Y",Menthol
+High (Class III),CC1=CNC2=CC=CC=C12,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13Y,14Y,15N,33N",3-Methyl-1H-indole
+Low (Class I),COC(=O)C1=CC=CC=C1O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",methyl salicylate
+High (Class III),C1=CC=C2C(=C1)C3=CC=CC=C3N2,,"1N,2N,3N,43N,5N,6N,42N,7Y,8N,10N,11N,12Y,13N",carbazole
+4-dichlorophenyl isocyanate,,,3
+Low (Class I),CCOC(=O)C1=CC=CC=C1C(=O)OCC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",diethyl phthalate
+Intermediate (Class II),CC1=CC(=O)CC(C1)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23N,24N,25N,26Y",isophorone
+Low (Class I),CC1=CC=C(C=C1)O,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",p-cresol
+6-dimethylnaphthalene,,,2
+High (Class III),CC1=CC=CC2=CC=CC=C12,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",1-methylnaphthalene
+High (Class III),CC1=CC2=CC=CC=C2C=C1,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28Y,29N,33N",2-methylnaphthalene
+1,,,1
+Low (Class I),CCC(=O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",2-butanone
+Intermediate (Class II),CCCCC(=O)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18Y",2-hexanone
+Low (Class I),CC1=CC=C(C=C1)C(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19N,23Y,27Y,28N,30N,18N",4-isopropyltoluene
+High (Class III),C1=CC=C(C=C1)Br,,"1N,2N,3Y,4N",bromobenzene
+High (Class III),CCCl,,"1N,2N,3Y,4N",chloroethane
+High (Class III),C(Br)Br,,"1N,2N,3Y,4N",dibromomethane
+High (Class III),C(F)(Cl)(Cl)Cl,,"1N,2N,3Y,4N",trichlorofluoromethane
+1,,,1
+1-dichloropropene,,,1
+High (Class III),C=COCCCl,,"1N,2N,3Y,4N",2-chloroethyl vinyl ether
+High (Class III),CC(C)OC(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",diisopropyl ether
+Low (Class I),CCOC(C)(C)C,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20Y,21N,44N,18N",ethyl tert-butyl ether
+High (Class III),CCC(C)(C)OC,,"1N,2N,3N,43N,5N,6N,42N,7N,16N,17N,19Y,20N,22N,33N",tert-amyl methyl ether
+2-dichloropropane,,,2
+3-dichloropropene,,,trans-1
