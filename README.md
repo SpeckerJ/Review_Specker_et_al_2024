@@ -1,6 +1,6 @@
 This repository contains the written *R* code used in the manuscript "Risk Characterisation of Chemicals of Emerging Concern in Real-Life Water Reuse Applications" by Specker et al. submitted to *Environment International* in 2024. The code was written by Jan Specker.
 
-Please download the entire project folder to run the individual scripts successfully and ensure that respective *R* packages are installed.  Alongside the supplementary data, shared code includes:
+Please download the entire project folder (RProject) to run the individual scripts successfully and ensure that respective *R* packages are installed.  Alongside the supplementary data, shared code includes:
 
 - Minimal working examples for data mining performed with the *webchem* and *RSelenium* packages
   - Please ensure that Java is installed on your system to use *RSelenium*. Also, please ensure you have Mozilla Firefox installed to use *RSelenium* as presented in the provided code.
