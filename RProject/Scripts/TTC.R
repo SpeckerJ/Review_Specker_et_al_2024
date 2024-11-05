@@ -25,7 +25,8 @@ raw_data_removal <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", shee
 raw_data_concentration <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 4)
 
 # Toxtree output
-raw_data_toxtree <- read.csv("Data/Toxtree_results_Extension_Cramer.csv")
+raw_data_toxtree <- read.csv("Data/Toxtree_results_Extension_Cramer.csv") # Read in using read.csv
+raw_data_toxtree <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 22) # OR read in using read_excel
 
 # # Assign to a working df
 df_removal <- raw_data_removal
