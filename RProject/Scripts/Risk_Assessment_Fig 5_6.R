@@ -299,7 +299,7 @@ data_norman %>%
     linetype = guide_legend(reverse = TRUE)
   )
 
-# ggsave(filename=paste0("Output/YoURFILENAME_", Sys.Date(), ".pdf"),
+# ggsave(filename=paste0("Output/YOUR_FILENAME", Sys.Date(), ".pdf"),
 #        plot = last_plot(),
 #        device = cairo_pdf,
 #        width = 9,
@@ -493,7 +493,7 @@ data_norman %>%
     linetype = guide_legend(reverse = TRUE)
   )
 
-# ggsave(filename=paste0("Output/Ecological_Risks_including_dilution_adjusted_conc", Sys.Date(), ".jpg"),
+# ggsave(filename=paste0("Output/YOUR_FILENAME", Sys.Date(), ".jpg"),
 #        plot = last_plot(), # Ensure that the desired plot is displayed 
 #        width = 10,
 #        height = 12,
