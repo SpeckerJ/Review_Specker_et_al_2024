@@ -24,16 +24,16 @@ library(RColorBrewer)
 # Read in raw data ####
 
 # Data for which removal was reported or could be calculated
-raw_data_removal <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 3)
+raw_data_removal <- read_excel("Data/Supplementary_Data.xlsx", sheet = 3)
 
 # Data for which only effluent/final concentrations were reported. 
-raw_data_concentration <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 4)
+raw_data_concentration <- read_excel("Data/Supplementary_Data.xlsx", sheet = 4)
 
 # Data from the NORMAN database
 raw_data_NORMAN <- read_csv("Data/NORMAN_database_2024-02-16.csv")
 
 # Chemicals for which (preliminary) guideline values (pgv) could be retrieved
-raw_data_pgv <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 5)
+raw_data_pgv <- read_excel("Data/Supplementary_Data.xlsx", sheet = 5)
 
 # --------------------------------------------------------------------------- #
 
