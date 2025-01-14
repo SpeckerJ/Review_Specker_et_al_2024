@@ -20,8 +20,8 @@ library(forcats)
 library(RColorBrewer)
 
 # Read in raw data
-raw_data_props_Freq <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 15)
-raw_data_props_all <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 9)
+raw_data_props_Freq <- read_excel("Data/Supplementary_Data.xlsx", sheet = 15)
+raw_data_props_all <- read_excel("Data/Supplementary_Data.xlsx", sheet = 9)
 
 # Select relevant columns, convert to numeric, assign a set column
 df_Freq <- raw_data_props_Freq %>% select(all_of(c(9:13))) %>%
