@@ -22,7 +22,7 @@ library(patchwork)
 library(RColorBrewer)
 
 # Read in raw data
-raw_data <- read_excel("Data/Supplementary_Data_Resubmission.xlsx", sheet = 3)
+raw_data <- read_excel("Data/Supplementary_Data.xlsx", sheet = 3)
 
 # Assign raw data to a new df for data wrangling
 df <- raw_data
