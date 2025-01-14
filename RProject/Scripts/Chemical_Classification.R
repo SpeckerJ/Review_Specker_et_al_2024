@@ -24,7 +24,7 @@ library(rvest)
 library(janitor)
 
 # Read in example data ####
-example_data <- read_excel("Data/Supplementary_Data_Resubmission.xlsx",
+example_data <- read_excel("Data/Supplementary_Data.xlsx",
   sheet = 14
 ) %>% select(1, 2)
 
